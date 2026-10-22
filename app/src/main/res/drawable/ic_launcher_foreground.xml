@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book Left Page -->
+    <path
+        android:fillColor="#F7F5F0"
+        android:pathData="M51,40 C43,37 32,38 27,42 C25.5,43.2 25,44.8 25,46.5 L25,72 C25,73.5 26.2,74.5 27.5,74 C33,71 43,70 51,74 L51,40 Z" />
+    <!-- Book Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,40 C65,37 76,38 81,42 C82.5,43.2 83,44.8 83,46.5 L83,72 C83,73.5 81.8,74.5 80.5,74 C75,71 65,70 57,74 L57,40 Z" />
+    <!-- Gentle Sprout / Leaf over the book -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M54,34 C54,34 50,28 54,23 C58,28 54,34 54,34 Z" />
+    <!-- Graduation Cap / Bookmark accent -->
+    <path
+        android:fillColor="#E0B872"
+        android:pathData="M53,35 L55,35 L55,48 L54,46 L53,48 Z" />
+</vector>

@@ -1,0 +1,7 @@
+{
+  "name": "Saathi",
+  "description": "A calm, low-stress college companion for attendance tracking, academic events, and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
